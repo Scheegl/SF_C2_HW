@@ -200,7 +200,7 @@ class Game:
         print("-------------------")
         print(" формат ввода: x y ")
         print(" x - номер строки  ")
-        print(" y - номер столбцаee ")
+        print(" y - номер столбца ")
 
     def loop(self):
         num = 0
