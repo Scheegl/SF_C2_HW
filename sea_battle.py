@@ -230,7 +230,7 @@ class Game:
                 break
             num += 1
 
-    def start(self):
+    def start(self): #запуск программы
         self.greet()
         self.loop()
 
